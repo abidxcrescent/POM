@@ -25,5 +25,5 @@ Feature: Open Chrome and Navigate to Drov
     Then I want to select number of trailers as "2"
     Then I want to select aniticipated delivery as "06/2025"
     #Then I click on submit
-    Then I verify the message with "Thank You"
+    Then I verify the message with "Thank You very much"
     
