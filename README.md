@@ -1,2 +1,1 @@
-
-POM
+A page object model 
