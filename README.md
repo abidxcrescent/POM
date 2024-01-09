@@ -1,1 +1,1 @@
-A page object model 
+A page object model.
